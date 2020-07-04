@@ -124,3 +124,8 @@ text-align: right;
   margin: 0 1.5%;
   font-size: 2rem;
 }
+.btn-colored{
+  background-color: #ffe933;
+  border-color: #ffc000;
+  border-radius: 3px;
+}
